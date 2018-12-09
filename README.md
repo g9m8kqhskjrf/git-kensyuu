@@ -1,2 +1,2 @@
 # git-kensyuu
-only for teaining
+only for training
